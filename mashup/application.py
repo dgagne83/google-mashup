@@ -8,7 +8,6 @@ import sqlite3
 from helpers import lookup
 
 # configure application
-# remember to export API_KEY=AIzaSyDMspNelakbx0Q2gaNXEPXg1g53SzbOIk0
 app = Flask(__name__)
 JSGlue(app)
 
